@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GoogleStyleBar">
+        <attr name="bar_circlePadding" format="dimension" />
+        <attr name="bar_borderWidth" format="dimension" />
+        <attr name="bar_borderColor" format="color" />
+    </declare-styleable>
+</resources>
