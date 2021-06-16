@@ -6,8 +6,8 @@ import android.graphics.Color
 import android.graphics.Paint
 import android.graphics.Path
 import android.util.AttributeSet
-import com.github.florent37.shapeofview.ShapeOfView
-import com.github.florent37.shapeofview.manager.ClipPathManager
+import io.github.florent37.shapeofview.ShapeOfView
+import io.github.florent37.shapeofview.manager.ClipPathManager
 import org.arxing.androidpratice.R
 
 class GoogleStyleBar : ShapeOfView {
